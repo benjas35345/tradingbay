@@ -1,4 +1,3 @@
-[tradingbay-app.html](https://github.com/user-attachments/files/28515641/tradingbay-app.html)
 <!doctype html>
 <html lang="en">
 <head>
